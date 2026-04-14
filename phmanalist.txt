@@ -44,3 +44,4 @@ joinhoney.com
 *.joinhoney.com
 emmanuelgollar.com
 *.emmanuelgollar.com
+*.hgoc.pk
